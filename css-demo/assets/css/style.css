@@ -53,7 +53,7 @@ body{
 }
 
 header.primary{
-  background-color:#3b638b;
+  background-color:#ffe5b4;
   text-align:center;
   color:#ffffff;
   text-shadow: 2px 2px #000000;
@@ -128,7 +128,7 @@ header.primary nav a:hover, header.primary nav a:active{
 }
 
 #intro h2 {
-  color:#3b638b;
+  color:#ffe5b4;
 }
 
 #intro p{
@@ -162,7 +162,7 @@ section#content{
 }
 
 #content .post a:link, #content .post a:visited{
-  color:#3b638b;
+  color:#ffe5b4;
 }
 
 #content .post figure{
@@ -170,7 +170,7 @@ section#content{
 }
 /* Attribute Selector */
 aside[role="complementary"]{
-  background-color:#172635;
+  background-color:#add8e6;
   color:#ffffff;
   padding:2.5em;
 }
@@ -202,7 +202,7 @@ aside article footer{
 }
 
 footer#colophon{
-  background-color:#3b638b;
+  background-color:#ffe5b4;
   /* SVG Background */
   
 background-image: url("https://secureservercdn.net/160.153.138.219/x82.553.myftpupload.com/wp-content/uploads/2020/05/Caribbean-beach.jpg");
@@ -218,12 +218,12 @@ background-image: url("https://secureservercdn.net/160.153.138.219/x82.553.myftp
 }
 
 #additional-elements h2{
-color:#3b638b;
+color:#ffe5v4;
 border-bottom:1px dotted #c0c0c0;
 }
 
 #additional-elements a:link, #additional-elements a:visited{
-  color:#3b638b;
+  color:#ffe5v4;
 }
 
 #additional-elements a:hover, #additional-elements a:active{
@@ -236,7 +236,7 @@ border-bottom:1px dotted #c0c0c0;
 
 
 #additional-elements h3{
-border-left:5px solid #3b638b;
+border-left:5px solid #ffe5b4;
 padding:5px 10px;
 }
 
@@ -253,7 +253,7 @@ caption{
 }
 
 th {
-  background:#3b638b;
+  background:#ffe5b4;
   color:#ffffff;
   text-align:center;
   padding:10px;
@@ -269,7 +269,7 @@ tr:nth-child(even){
 }
 
 tr:hover{
-  background:lightsteelblue;
+  background:lightblue;
 }
 
 #additional-elements ol{
